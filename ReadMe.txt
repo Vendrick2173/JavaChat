@@ -1,1 +1,1 @@
-Client Chat
+Simple Java Chat for Socket
